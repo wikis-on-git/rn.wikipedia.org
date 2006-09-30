@@ -20,6 +20,13 @@ width=45
 <div align="center">
 
 <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
+<big>'''Ĉi subdomajno estas rezervita por la kreo de Vikipedio en la [[:eo:burunda lingvo|burunda lingvo]].'''</big><br />
+<big>''Se vi parolas la burundan, antaŭenmarŝu kaj ekprilaboru la enciklopedion!''</big><br />
+Nombro da artikoloj: '''{{NUMBEROFARTICLES}}'''<br />
+Por pliaj informoj, vidu la [[:eo:|Vikipedion en Esperanto]].
+</div>
+
+<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kirundi_language|Kirundi]] language.'''</big><br />
 <big>''If you speak Kirundi, go ahead and start working on the encyclopedia!''</big><br />
 Number of articles: '''{{NUMBEROFARTICLES}}'''<br />
