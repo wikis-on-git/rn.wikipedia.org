@@ -21,20 +21,21 @@ width=45
 <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''Ĉi subdomajno estas rezervita por la kreo de Vikipedio en la [[:eo:burunda lingvo|burunda lingvo]].'''</big><br />
 <big>''Se vi parolas la burundan, antaŭenmarŝu kaj ekprilaboru la enciklopedion!''</big><br />
-Nombro da artikoloj: '''{{NUMBEROFARTICLES}}'''<br />
+Nombro da [[Special:AllPages|artikoloj]]: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
 Por pliaj informoj, vidu la [[:eo:|Vikipedion en Esperanto]].
 </div>
 
 <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kirundi_language|Kirundi]] language.'''</big><br />
 <big>''If you speak Kirundi, go ahead and start working on the encyclopedia!''</big><br />
-Number of articles: '''{{NUMBEROFARTICLES}}'''<br />
+Number of [[Special:AllPages|articles]]: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
 For more information, see the [[:en:|English Wikipedia]].
 </div>
 
 <div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''Ce lieu est réservé pour la création d'un Wikipédia en langue [[:fr:Kirundi|Kirundi]].'''</big><br />
 <big>''Si vous parlez Kirundi, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br />
+Elle contient actuellement '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' [[Special:AllPages|articles]].<br>
 Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
 </div>
 
