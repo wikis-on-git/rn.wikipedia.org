@@ -6,8 +6,15 @@
 *[[Kirundi]]
 *[[Leta Zunze Ubumwe za Amerika]]
 *[[Louis Rwagasore]]
-
-{| width="60%" style="border:1px solid black"
+<br>
+<center>
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+</div>
+</center>
+<br>
+{| width="60%" style="border:1px solid black" align=center
 |
 <inputbox>
 type=create
