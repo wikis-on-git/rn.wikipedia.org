@@ -16,8 +16,10 @@
 <br>
 <center>
 <div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+<big>
+'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''
+</big> <br>
+'''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
 </div>
 </center>
 <br>
