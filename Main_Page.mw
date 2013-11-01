@@ -28,65 +28,6 @@ width=45
 </inputbox>
 |}
 
-----
-<div align="center">
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ĉi subdomajno estas rezervita por la kreo de Vikipedio en la [[:eo:burunda lingvo|burunda lingvo]].'''</big><br />
-<big>''Se vi parolas la burundan, antaŭenmarŝu kaj ekprilaboru la enciklopedion!''</big><br />
-Nombro da [[Special:AllPages|artikoloj]]: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
-Por pliaj informoj, vidu la [[:eo:|Vikipedion en Esperanto]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kirundi_language|Kirundi]] language.'''</big><br />
-<big>''If you speak Kirundi, go ahead and start working on the encyclopedia!''</big><br />
-Number of [[Special:AllPages|articles]]: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
-For more information, see the [[:en:|English Wikipedia]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ce lieu est réservé pour la création d'un Wikipédia en langue [[:fr:Kirundi|Kirundi]].'''</big><br />
-<big>''Si vous parlez Kirundi, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br />
-Elle contient actuellement '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' [[Special:AllPages|articles]].<br>
-Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Bu subdomain  [[:eo:Kirundi|Rundice]] Vikipedi oluşturulması için ayrılmıştır.'''</big><br />
-<big>''Eğer Rundice biliyorsanız, çekinmeden yeni madde açmaya başlayın!''</big><br />
-[[Special:AllPages|madde]] sayısı: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
-Daha fazla bilgi için  [[:tr:|Türkçe Vikipedi]]ye bakın.
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center" dir="rtl">
-<big>'''هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" [[:en:Kirundi|بالكيروندية]]..'''</big><br />
-<big>إذا يعجب الفكرة، فاكتبها! إضغط على edit وترجم هذا النص إلى الكيروندية أو ابدأ أن تكتب مقالات.</big><br />
-[[:ar:|لمعلومات أخرى ومساعدة بالعربية إضغط هنا.]]
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Este subdominio está reservado para la creación de una Wikipedia en lengua Kirundi.'''</big><br />
-<big>''Si usted habla Kirundi, modifique el texto y comience a trabajar en la enciclopedia.''</big><br />
-Para mayor información, visite la [[:es:|Wikipedia en español]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Kirundi|Kirundi]] Sprache reserviert.'''</big><br />
-<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br />
-Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Subdomain ini disediakan untuk penciptaan Wikipedia di dalam bahasa [[:ms:Bahasa Kirundi|Kirundi]].'''</big><br />
-<big>''Jika anda bertutur bahasa Kirundi, pergi ke hadapan dan mula bekerja di ensiklopedia!''</big><br />
-Nombor [[Special:AllPages|rencana]]: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''<br />
-Untuk maklumat lanjut, lihat [[:ms:|Wikipedia Bahasa Melayu]].
-</div>
-
-'''[http://www.wikipedia.org/ www.wikipedia.org]'''
-</div>
-
 <center>
 ==Other African-language Wikipedias that are not among large ones==
 [[:aa:|Afar]]&nbsp;·
