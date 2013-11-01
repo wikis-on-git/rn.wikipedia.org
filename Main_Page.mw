@@ -1,3 +1,9 @@
+<br>
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em"> 	 
+<center>
+<span style="font-size:200%"><font color="red">'''Kirundi Wikipedia'''</span></font>
+</center>
+<br/>
 [[File:Flag of Burundi.svg|thumb|right|250px|]]
 
 '''[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles'''
@@ -10,13 +16,6 @@
 *[[Icongereza ka rurimi rwa kabiri]]
 *[[Ireta Zunze Ubumwe z'Ubumerika]]
 *[[Rudoviko Rwagasore]]
-<br>
-<center>
-<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>
-'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''
-</big> <br>
-'''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
 </div>
 </center>
 <br>
