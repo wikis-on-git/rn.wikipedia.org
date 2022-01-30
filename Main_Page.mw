@@ -15,7 +15,7 @@ Gushika ubu dufise inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]] mu ruri
 | align="right" |
 |}
 
-<center><small>
+<div class="center"><div style="font-size:83%;">
 == Izindi ndimi zo muri Afirika zitandikwa cane kumbuga ngurukanabumenyi ==
 [[:af:|Afrikaans]]&nbsp;·
 [[:ak:|Akan]]&nbsp;·
@@ -50,7 +50,7 @@ Gushika ubu dufise inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]] mu ruri
 [[:wo:|Wolof]]&nbsp;·
 [[:ts:|Xitsonga]]&nbsp;·
 [[:yo:|Yorùbá]]
-</small></center>
+</div></div>
 [[Category: Wikipedia]]
 __INDEX__
 __NEWSECTIONLINK__
